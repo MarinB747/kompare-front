@@ -1,0 +1,15 @@
+.user__container {
+  display: flex;
+  flex-direction: row;
+  margin: 10px 0px;
+  justify-content: space-between;
+}
+.user__data {
+  margin: 0 10px;
+}
+
+.user__btn {
+  background: transparent;
+  border-style: none;
+  font-weight: bold;
+}
